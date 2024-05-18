@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stories on Seme Things</title>
+    <link>http://localhost:1313/stories/</link>
+    <description>Recent content in Stories on Seme Things</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 May 2024 18:16:37 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/stories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cute Boys</title>
+      <link>http://localhost:1313/stories/cute-boys/</link>
+      <pubDate>Sat, 18 May 2024 18:16:37 +0200</pubDate>
+      <guid>http://localhost:1313/stories/cute-boys/</guid>
+      <description>Fr Fr Boys so cute So i was just having fun on my phone when suddenly:&#xA;Boys On Reddit&#xA;And some code:&#xA;for i in range(10): print(&amp;#34;Hello World&amp;#34;) </description>
+    </item>
+  </channel>
+</rss>
